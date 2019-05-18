@@ -1,0 +1,84 @@
+<style>
+.section1 {
+}
+
+.row{
+  margin: 50px;
+
+}
+
+.section1 {
+  margin: 30px;
+  background:#825e81;
+  width: 100%;
+  padding: 30px;
+  text-align: center;
+  font-size: 30px;
+  cursor: pointer;
+  color: #f1e4e7;
+}
+
+.section2 {
+  background:#b4adcc;
+  width: 100%;
+  padding: 30px;
+  text-align: center;
+  font-size: 30px;
+  cursor: pointer;
+
+}
+
+.containerTab1{
+  display:none;
+  background:#825e81;
+  padding: 20px;
+  color: #f1e4e7;
+}
+.containerTab2{
+  display:none;
+  background:#b4adcc;
+  padding: 20px;
+}
+
+/* Clear floats after the columns */
+.row2:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Closable button inside the image */
+.closebtn {
+  float: right;
+  color: white;
+  font-size: 35px;
+  cursor: pointer;
+}
+
+.row3 {
+  display: flex;
+}
+
+/* Create three equal columns that sits next to each other */
+.column3 {
+  flex: 33.3%;
+  padding: 5px;
+}
+
+.easy {
+ float: left; 
+ margin-right: 30px;
+}
+.t{
+  padding-bottom: 30px;
+  padding-left: 130px;
+  padding-right: 40px; 
+}
+
+.column4 {
+   flex: 50%;
+}
+img.p{
+  margin:40px;
+}
+</style>

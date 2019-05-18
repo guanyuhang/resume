@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style type="text/css" media="screen">
+		p.p{
+				display: none;
+		}		
+		span:hover p{display:block;}
+		span.bg{
+		  width: 100px;
+		  height: 100px;
+		  background:#1a5b34;
+		  -webkit-transition: width 2s; /* Safari */
+		  -webkit-transition-timing-function: linear; /* Safari */
+		  transition: width 2s;
+		  transition-timing-function: linear;
+		  border-radius: 100px;
+		  margin-top:50px; 
+		  margin-right:2%; 
+		  margin-bottom:50px;
+
+		}
+
+		span.pg:hover {
+		  width: 300px;
+		  
+		}
+
+		p.p {
+		  width: 100px;
+		  height: 100px;
+		  background: #f8e016;
+		  -webkit-transition: width 2s; /* Safari */
+		  -webkit-transition-timing-function: linear; /* Safari */
+		  transition: width 2s;
+		  transition-timing-function: linear;
+		  border-radius: 100px;
+
+		  margin-top:50px; 
+		  margin-right:2%; 
+		  margin-bottom:50px;
+		}
+
+		p.p:hover {
+		  width: 300px;
+		}
+
+		
+	</style>
+</head>
+</html>

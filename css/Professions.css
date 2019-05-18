@@ -1,0 +1,69 @@
+<style>
+
+* {box-sizing: border-box}
+
+.container {
+  width: 80%;
+  background-color: #e5d7ea;
+  border-radius: 50px;
+}
+
+.skills {
+  text-align: right;
+  padding: 10px;
+  border-radius: 50px;
+  color: #0a0a0a;
+  text-align: left;
+}
+.html {width: 90%; background-color: #5d4b62;}
+.css {width: 80%; background-color: #62546d;}
+.java {width: 80%; background-color: #6e6379;}
+.c {width: 70%; background-color: #846f8b;}
+.python{width: 60%; background-color: #a288aa;}
+.js {width: 40%; background-color: #a78cb5;}
+.swift{width: 10%; background-color: #cfb6dd;}
+
+
+
+.chip {
+  margin-top:30px; 
+  margin-left: 60px;
+  display: inline-block;
+  padding: 0 40px;
+  height: 150px;
+  font-size: 25px;
+  line-height: 140px;
+  border-radius: 25px;
+  background-color:#ecdadd;
+}
+
+.chip img {
+  float: left;
+  margin: 0 10px 0 -25px;
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+}
+
+
+
+
+.bg1{
+
+    font-size: 35px;
+    padding-left:120px;
+ 
+}
+.bg2{ 
+
+    font-size: 35px;
+    padding-left:200px;
+ 
+}
+.bg3{
+
+    font-size: 35px;
+    padding-left:140px;
+ 
+}
+ </style>
