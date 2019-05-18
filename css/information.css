@@ -6,14 +6,14 @@
   float: left;
   width: 30%;
   padding: 90px;
-  height: 700px; /* Should be removed. Only for demonstration */
+  height: 400px; /* Should be removed. Only for demonstration */
 }
 
 .infor2 {
   float: left;
   width: 70%;
   padding: 50px;
-  height: 700px; /* Should be removed. Only for demonstration */
+  height: 400px; /* Should be removed. Only for demonstration */
 }
 
 /* Clear floats after the columns */
@@ -28,8 +28,8 @@
 
 .flip-box-inner {
   position: relative;
-  width: 500px;
-  height: 500px;
+  width: 250px;
+  height: 20px;
   text-align: center;
   transition: transform 0.8s;
   transform-style: preserve-3d;
@@ -41,8 +41,8 @@
 
 .flip-box-front, .flip-box-back {
   position: absolute;
-  width: 500px;
-  height: 500px;
+  width: 250px;
+  height: 250px;
   backface-visibility: hidden;
 }
 
@@ -54,7 +54,7 @@
 }
 
 .self{
- height: 500px;
+ height: 250px;
 
 }
 
@@ -64,12 +64,12 @@
   border: none;
   color: #FFFFFF;
   text-align: center;
-  font-size: 28px;
-  padding: 20px;
-  width: 200px;
+  font-size: 14px;
+  padding: 5px;
+  width: 100px;
   transition: all 0.5s;
   cursor: pointer;
-  margin-top: 70px;
+  margin-top: 30px;
 }
 
 .button1 p {
@@ -98,18 +98,18 @@
 }
 
 .personal{
-  margin-top: 70px;
+  margin-top: 30px;
 }
 
 .megaphone{
-  margin-top:110px;
+  margin-top:60px;
 }
 .banner {
         font-family:Reklame Font;
         font-style:oblique;
         color:#6f3e56;
-        font-size: 60px;
-       line-height:190px;
+        font-size: 40px;
+       line-height:90px;
        text-indent : 10px;
       text-shadow: 10px 10px 10px #915572,20px 20px 12px silver;
 }

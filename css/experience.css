@@ -11,9 +11,9 @@
   margin: 30px;
   background:#825e81;
   width: 100%;
-  padding: 30px;
+  padding: 20px;
   text-align: center;
-  font-size: 30px;
+  font-size: 20px;
   cursor: pointer;
   color: #f1e4e7;
 }
@@ -21,9 +21,9 @@
 .section2 {
   background:#b4adcc;
   width: 100%;
-  padding: 30px;
+  padding: 20px;
   text-align: center;
-  font-size: 30px;
+  font-size: 20px;
   cursor: pointer;
 
 }
@@ -68,6 +68,7 @@
 .easy {
  float: left; 
  margin-right: 30px;
+ height: 300px;
 }
 .t{
   padding-bottom: 30px;
@@ -79,6 +80,26 @@
    flex: 50%;
 }
 img.p{
-  margin:40px;
+  margin:20px;
+}
+
+
+.bg1{
+    margin-top:20px; 
+    font-size: 20px;
+    padding-left:60px;
+ 
+}
+.bg2{ 
+    margin-top:20px; 
+    font-size: 20px;
+    padding-left:90px;
+ 
+}
+.bg3{
+    margin-top:20px;
+    font-size: 20px;
+    padding-left:70px;
+ 
 }
 </style>
